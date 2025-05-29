@@ -1,3 +1,3 @@
 ---
-title: Welcome to my blog!
+**Welcome to Cole Scott's Blog!**
 ---
