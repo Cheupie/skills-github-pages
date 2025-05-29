@@ -1,3 +1,3 @@
 ---
-**Welcome to Cole Scott's Blog!**
+Welcome to Cole Scott's Blog!
 ---
